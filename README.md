@@ -56,3 +56,8 @@ Please read the User Manual carefully before using the demonstration cases or so
 [Bristow, N., Li, J., Hartford, P., Guala, M., & Hong, J. (2023). Imaging-based 3D particle tracking system for field characterization of particle dynamics in atmospheric flows. Experiments in Fluids, 64(4), 78.](papers/bristow2023ef.pdf)
 
 [Li, J., Guala, M., & Hong, J. (2024). Field investigation of 3-D snow settling dynamics under weak atmospheric turbulence. Journal of Fluid Mechanics, 997, A33.](papers/li2024jfm.pdf)
+
+---
+
+## License
+This project is licensed under the MIT License — see the [LICENSE](LICENSE) file for details.
